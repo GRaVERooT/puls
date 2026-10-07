@@ -1,0 +1,14 @@
+{
+  "name": "ПУЛЬС — роман Петра'Soulo",
+  "short_name": "ПУЛЬС",
+  "description": "Цифровой роман для чтения.",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07101f",
+  "theme_color": "#07101f",
+  "icons": [
+    { "src": "assets/puls/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/puls/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
